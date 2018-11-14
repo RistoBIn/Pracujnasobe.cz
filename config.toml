@@ -2,7 +2,7 @@
 #
 baseurl = "https://Pracujnasobe.cz/"
 languageCode = "en-us"
-title = "Pracujnasobe.cz"
+title = "Pracuj na sobe!"
 #theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
@@ -24,9 +24,14 @@ paginate = 5
   url = "https://example.org"
 
 [[menu.navbar]]
-  name = "Link 1"
-  url = "/"
+  name = "Contact"
+  url = "/contact"
+  weight = "1"
 
+[[menu.navbar]]
+  name = "Blog"
+  url = "/post"
+  weight = "2"
 
 # Theme variables
 #
