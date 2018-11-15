@@ -24,14 +24,19 @@ paginate = 5
   url = "https://example.org"
 
 [[menu.navbar]]
+  name = "Home"
+  url = "/"
+  weight = "1"
+
+[[menu.navbar]]
   name = "Contact"
   url = "/contact"
-  weight = "1"
+  weight = "2"
 
 [[menu.navbar]]
   name = "Blog"
   url = "/post"
-  weight = "2"
+  weight = "3"
 
 # Theme variables
 #
