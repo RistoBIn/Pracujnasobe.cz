@@ -3,96 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Pracujnasobe.cz/2014/09/creating-a-new-theme/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/2014/04/hugo-template-primer/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/2014/04/getting-started-with-hugo/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/categories/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/contact/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/contact/</loc>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Pracujnasobe.cz/categories/development/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/tags/go/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/tags/golang/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/categories/golang/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/tags/hugo/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/post/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/tags/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/tags/templates/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Pracujnasobe.cz/tags/themes/</loc>
+    <loc>https://ristobin.github.io/Pracujnasobe.cz/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
